@@ -1,0 +1,2 @@
+# gitops
+execuse git operators
